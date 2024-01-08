@@ -1,0 +1,8 @@
+#outline {
+    color: #09a16b;
+    text-shadow:
+     -2px -2px 0 #FFF,  
+      2px -2px 0 #FFF,
+      -2px 2px 0 #FFF,
+       2px 2px 0 #FFF;
+  }
